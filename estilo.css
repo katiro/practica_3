@@ -1,0 +1,9 @@
+.body{
+  background-color: #03953C;
+}
+.bordes{
+  border-left-style: solid;
+  border-right-style: solid;
+  border-top-style: solid;
+  border-bottom-style: solid;
+}
